@@ -1,5 +1,7 @@
 
 # Journey through *Titanic: Machine Learning from Disaster*
+### Kaggle competition overview: https://www.kaggle.com/c/titanic
+### Kaggle Kernel: https://www.kaggle.com/matheuscoradini/titanic-feature-engineering-logistic-regression
 
 ### My first Kaggle Kernel
 
@@ -33,17 +35,7 @@ df.head()
 
 <div>
 <style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
 </style>
 <table border="1" class="dataframe">
   <thead>
